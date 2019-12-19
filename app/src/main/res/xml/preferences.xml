@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="Easy"
+        android:entries="@array/difficulty_list"
+        android:entryValues="@array/difficulty_list_values"
+        android:key="pref_difficulty"
+        android:persistent="true"
+        android:title="Choose a Difficulty"
+        android:summary="Select the degree of scoring difficulty for your guesses."/>
+
+</PreferenceScreen>

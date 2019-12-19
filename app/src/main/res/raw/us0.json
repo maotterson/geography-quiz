@@ -1,0 +1,95 @@
+{
+  "cities": [
+    {
+      "City": "New York City",
+      "State": "New York",
+      "Population": 8405837,
+      "x": 40.7127837,
+      "y": -74.0059413
+    },
+    {
+      "City": "Los Angeles",
+      "State": "California",
+      "Population": 3884307,
+      "x": 34.0522342,
+      "y": -118.2436849
+    },
+    {
+      "City": "Chicago",
+      "State": "Illinois",
+      "Population": 2718782,
+      "x": 41.8781136,
+      "y": -87.6297982
+    },
+    {
+      "City": "Houston",
+      "State": "Texas",
+      "Population": 2195914,
+      "x": 29.7604267,
+      "y": -95.3698028
+    },
+    {
+      "City": "Philadelphia",
+      "State": "Pennsylvania",
+      "Population": 1553165,
+      "x": 39.9525839,
+      "y": -75.1652215
+    },
+    {
+      "City": "Phoenix",
+      "State": "Arizona",
+      "Population": 1513367,
+      "x": 33.4483771,
+      "y": -112.0740373
+    },
+    {
+      "City": "San Antonio",
+      "State": "Texas",
+      "Population": 1409019,
+      "x": 29.4241219,
+      "y": -98.4936282
+    },
+    {
+      "City": "San Diego",
+      "State": "California",
+      "Population": 1355896,
+      "x": 32.715738,
+      "y": -117.1610838
+    },
+    {
+      "City": "Dallas",
+      "State": "Texas",
+      "Population": 1257676,
+      "x": 32.7766642,
+      "y": -96.7969879
+    },
+    {
+      "City": "Boston",
+      "State": "Massachusetts",
+      "Population": 645966,
+      "x": 42.3600825,
+      "y": -71.0588801
+    },
+    {
+      "City": "Seattle",
+      "State": "Washington",
+      "Population": 652405,
+      "x": 47.6062095,
+      "y": -122.3320708
+    },
+    {
+      "City": "Denver",
+      "State": "Colorado",
+      "Population": 649495,
+      "x": 39.7392358,
+      "y": -104.990251
+    },
+    {
+      "City": "Washington DC",
+      "State": "District of Columbia",
+      "Population": 646449,
+      "x": 38.9071923,
+      "y": -77.0368707
+    }
+  ]
+}

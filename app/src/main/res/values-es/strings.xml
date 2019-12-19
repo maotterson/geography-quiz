@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuestionario de Geografía</string>
+    <string name="initialSubHeader">Pon a prueba tus conocimientos de geografía!</string>
+    <string name="textInitialTapAnywhere">Toca en cualquier lugar para comenzar</string>
+    <string name="textMainButton">Hacer adivinanzas</string>
+    <string name="textButtonContinue">Continuar</string>
+    <string name="textRoundScore">Puntaje redondo</string>
+    <string name="textWinMessage">¡Felicidades! ¡Pasaste las doce rondas!</string>
+    <string name="textLoseMessage">Desafortunadamente no obtuviste suficientes puntos para avanzar a la siguiente ronda.</string>
+    <string name="textContinueTapAnywhere">Toca en cualquier lugar para volver a jugar</string>
+    <string name="textSummaryHeader">Resumen</string>
+    <string name="textRoundSummaryHeader">Resumen Redondo</string>
+    <string name="textScoreHeader">Puntuación:</string>
+    <string name="textGuessSummaryHeader">Adivinar</string>
+    <string name="textDistance">Distancia</string>
+
+    <string name="textConfirmDialog">¿Seguro que quieres ver la configuración? El progreso actual del juego se perderá.</string>
+    <string name="no">No</string>
+    <string name="yes">Sí</string>
+    <string name="textRound">Redondo</string>
+    <string name="textActualLocation">Ubicación real</string>
+    <string name="textMiles">millas</string>
+    <string name="textProgress">progreso</string>
+</resources>

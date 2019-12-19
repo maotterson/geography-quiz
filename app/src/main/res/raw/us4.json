@@ -1,0 +1,116 @@
+{
+  "cities": [
+    {
+      "City": "Winston-Salem",
+      "State": "North Carolina",
+      "Population": 236441,
+      "x": 36.0998596,
+      "y": -80.244216
+    },
+    {
+      "City": "Tallahassee",
+      "State": "Florida",
+      "Population": 186411,
+      "x": 30.4382559,
+      "y": -84.2807329
+    },
+    {
+      "City": "Richmond",
+      "State": "Virginia",
+      "Population": 214114,
+      "x": 37.5407246,
+      "y": -77.4360481
+    },
+    {
+      "City": "Montgomery",
+      "State": "Alabama",
+      "Population": 201332,
+      "x": 32.3668052,
+      "y": -86.2999689
+    },
+    {
+      "City": "Spokane",
+      "State": "Washington",
+      "Population": 210721,
+      "x": 47.6587802,
+      "y": -117.4260466
+    },
+    {
+      "City": "Akron",
+      "State": "Ohio",
+      "Population": 198100,
+      "x": 41.0814447,
+      "y": -81.5190053
+    },
+    {
+      "City": "Little Rock",
+      "State": "Arkansas",
+      "Population": 197357,
+      "x": 34.7464809,
+      "y": -92.2895948
+    },
+    {
+      "City": "Mobile",
+      "State": "Alabama",
+      "Population": 194899,
+      "x": 30.6953657,
+      "y": -88.0398912
+    },
+    {
+      "City": "Providence",
+      "State": "Rhode Island",
+      "Population": 177994,
+      "x": 41.8239891,
+      "y": -71.4128343
+    },
+    {
+      "City": "Rochester",
+      "State": "New York",
+      "Population": 210358,
+      "x": 43.16103,
+      "y": -77.6109219
+    },
+    {
+      "City": "Syracuse",
+      "State": "New York",
+      "Population": 144669,
+      "x": 43.0481221,
+      "y": -76.1474244
+    },
+    {
+      "City": "Savannah",
+      "State": "Georgia",
+      "Population": 142772,
+      "x": 32.0835407,
+      "y": -81.0998342
+    },
+    {
+      "City": "Dayton",
+      "State": "Ohio",
+      "Population": 143355,
+      "x": 39.7589478,
+      "y": -84.1916069
+    },
+    {
+      "City": "Fort Lauderdale",
+      "State": "Florida",
+      "Population": 172389,
+      "x": 26.1224386,
+      "y": -80.1373174
+    },
+    {
+      "City": "St. Petersburg",
+      "State": "Florida",
+      "Population": 249688,
+      "x": 27.773056,
+      "y": -82.64
+    },
+    {
+      "City": "Hartford",
+      "State": "Connecticut",
+      "Population": 125017,
+      "x": 41.7637111,
+      "y": -72.6850932
+    }
+  ]
+}

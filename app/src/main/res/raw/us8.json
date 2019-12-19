@@ -1,0 +1,186 @@
+{
+  "cities": [
+    {
+      "City": "Joliet",
+      "State": "Illinois",
+      "Population": 147806,
+      "x": 41.525031,
+      "y": -88.0817251
+    },
+    {
+      "City": "Thousand Oaks",
+      "State": "California",
+      "Population": 128731,
+      "x": 34.1705609,
+      "y": -118.8375937
+    },
+    {
+      "City": "Norman",
+      "State": "Oklahoma",
+      "Population": 118197,
+      "x": 35.2225668,
+      "y": -97.4394777
+    },
+    {
+      "City": "Tyler",
+      "State": "Texas",
+      "Population": 100223,
+      "x": 32.3512601,
+      "y": -95.3010624
+    },
+    {
+      "City": "Davenport",
+      "State": "Iowa",
+      "Population": 102157,
+      "x": 41.5236437,
+      "y": -90.5776367
+    },
+    {
+      "City": "Chico",
+      "State": "California",
+      "Population": 88077,
+      "x": 39.7284944,
+      "y": -121.8374777
+    },
+    {
+      "City": "Longmont",
+      "State": "Colorado",
+      "Population": 89919,
+      "x": 40.1672068,
+      "y": -105.1019275
+    },
+    {
+      "City": "Bethlehem",
+      "State": "Pennsylvania",
+      "Population": 75018,
+      "x": 40.6259316,
+      "y": -75.3704579
+    },
+    {
+      "City": "St. Cloud",
+      "State": "Minnesota",
+      "Population": 66297,
+      "x": 45.5579451,
+      "y": -94.1632404
+    },
+    {
+      "City": "Blacksburg",
+      "State": "Virginia",
+      "Population": 43609,
+      "x": 37.2295733,
+      "y": -80.4139393
+    },
+    {
+      "City": "Bellevue",
+      "State": "Washington",
+      "Population": 133992,
+      "x": 47.610377,
+      "y": -122.2006786
+    },
+    {
+      "City": "Schenectady",
+      "State": "New York",
+      "Population": 65902,
+      "x": 42.8142432,
+      "y": -73.9395687
+    },
+    {
+      "City": "Charlottesville",
+      "State": "Virginia",
+      "Population": 44349,
+      "x": 38.0293059,
+      "y": -78.4766781
+    },
+    {
+      "City": "Waukesha",
+      "State": "Wisconsin",
+      "Population": 71016,
+      "x": 43.0116784,
+      "y": -88.2314813
+    },
+    {
+      "City": "Hamilton",
+      "State": "Ohio",
+      "Population": 62258,
+      "x": 39.3995008,
+      "y": -84.5613355
+    },
+    {
+      "City": "Billings",
+      "State": "Montana",
+      "Population": 109059,
+      "x": 45.7832856,
+      "y": -108.5006904
+    },
+    {
+      "City": "Cheyenne",
+      "State": "Wyoming",
+      "Population": 62448,
+      "x": 41.1399814,
+      "y": -104.8202462
+    },
+    {
+      "City": "Scranton",
+      "State": "Pennsylvania",
+      "Population": 75806,
+      "x": 41.408969,
+      "y": -75.6624122
+    },
+    {
+      "City": "Peoria",
+      "State": "Illinois",
+      "Population": 116513,
+      "x": 40.6936488,
+      "y": -89.5889864
+    },
+    {
+      "City": "Findlay",
+      "State": "Ohio",
+      "Population": 41512,
+      "x": 41.04422,
+      "y": -83.6499321
+    },
+    {
+      "City": "Gulfport",
+      "State": "Mississippi",
+      "Population": 71012,
+      "x": 30.3674198,
+      "y": -89.0928155
+    },
+    {
+      "City": "Champaign",
+      "State": "Illinois",
+      "Population": 83424,
+      "x": 40.1164204,
+      "y": -88.2433829
+    },
+    {
+      "City": "State College",
+      "State": "Pennsylvania",
+      "Population": 41757,
+      "x": 40.7933949,
+      "y": -77.8600012
+    },
+    {
+      "City": "Coeur d'Alene",
+      "State": "Idaho",
+      "Population": 46402,
+      "x": 47.6776832,
+      "y": -116.7804664
+    },
+    {
+      "City": "Huntsville",
+      "State": "Alabama",
+      "Population": 186254,
+      "x": 34.7303688,
+      "y": -86.5861037
+    },
+    {
+      "City": "Pine Bluff",
+      "State": "Arkansas",
+      "Population": 46094,
+      "x": 34.2284312,
+      "y": -92.0031955
+    }
+  ]
+}

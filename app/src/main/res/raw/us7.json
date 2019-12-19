@@ -1,0 +1,191 @@
+{
+  "cities": [
+    {
+      "City": "Laredo",
+      "State": "Texas",
+      "Population": 248142,
+      "x": 27.5305671,
+      "y": -99.4803241
+    },
+    {
+      "City": "Cary",
+      "State": "North Carolina",
+      "Population": 151088,
+      "x": 35.79154,
+      "y": -78.7811169
+    },
+    {
+      "City": "Mesa",
+      "State": "Arizona",
+      "Population": 457587,
+      "x": 33.4151843,
+      "y": -111.8314724
+    },
+    {
+      "City": "Mountain View",
+      "State": "California",
+      "Population": 77846,
+      "x": 37.3860517,
+      "y": -122.0838511
+    },
+    {
+      "City": "Dearborn",
+      "State": "Michigan",
+      "Population": 95884,
+      "x": 42.3222599,
+      "y": -83.1763145
+    },
+    {
+      "City": "Boca Raton",
+      "State": "Florida",
+      "Population": 89407,
+      "x": 26.3683064,
+      "y": -80.1289321
+    },
+    {
+      "City": "Reading",
+      "State": "Pennsylvania",
+      "Population": 87893,
+      "x": 40.3356483,
+      "y": -75.9268747
+    },{
+      "City": "Palo Alto",
+      "State": "California",
+      "Population": 66642,
+      "x": 37.4418834,
+      "y": -122.1430195
+    },
+    {
+      "City": "Oshkosh",
+      "State": "Wisconsin",
+      "Population": 66778,
+      "x": 44.0247062,
+      "y": -88.5426136
+    },{
+      "City": "Terre Haute",
+      "State": "Indiana",
+      "Population": 61025,
+      "x": 39.4667034,
+      "y": -87.4139092
+    },
+    {
+      "City": "Pontiac",
+      "State": "Michigan",
+      "Population": 59887,
+      "x": 42.6389216,
+      "y": -83.2910468
+    },
+    {
+      "City": "Casper",
+      "State": "Wyoming",
+      "Population": 59628,
+      "x": 42.866632,
+      "y": -106.313081
+    },
+    {
+      "City": "Chapel Hill",
+      "State": "North Carolina",
+      "Population": 59635,
+      "x": 35.9131996,
+      "y": -79.0558445
+    },
+    {
+      "City": "Saginaw",
+      "State": "Michigan",
+      "Population": 50303,
+      "x": 43.4194699,
+      "y": -83.9508068
+    },
+    {
+      "City": "Sarasota",
+      "State": "Florida",
+      "Population": 53326,
+      "x": 27.3364347,
+      "y": -82.5306527
+    },
+    {
+      "City": "Mansfield",
+      "State": "Ohio",
+      "Population": 46454,
+      "x": 40.75839,
+      "y": -82.5154471
+    },
+    {
+      "City": "Waco",
+      "State": "Texas",
+      "Population": 129030,
+      "x": 31.549333,
+      "y": -97.1466695
+    },
+    {
+      "City": "Tuscaloosa",
+      "State": "Alabama",
+      "Population": 95334,
+      "x": 33.2098407,
+      "y": -87.5691735
+    },
+    {
+      "City": "Youngstown",
+      "State": "Ohio",
+      "Population": 65184,
+      "x": 41.0997803,
+      "y": -80.6495194
+    },
+    {
+      "City": "Roanoke",
+      "State": "Virginia",
+      "Population": 98465,
+      "x": 37.2709704,
+      "y": -79.9414266
+    },
+    {
+      "City": "Asheville",
+      "State": "North Carolina",
+      "Population": 87236,
+      "x": 35.5950581,
+      "y": -82.5514869
+    },
+    {
+      "City": "Santa Cruz",
+      "State": "California",
+      "Population": 62864,
+      "x": 36.9741171,
+      "y": -122.0307963
+    },
+    {
+      "City": "Sioux City",
+      "State": "Iowa",
+      "Population": 82459,
+      "x": 42.4999942,
+      "y": -96.4003069
+    },
+    {
+      "City": "Scottsdale",
+      "State": "Arizona",
+      "Population": 226918,
+      "x": 33.4941704,
+      "y": -111.9260519
+    },
+    {
+      "City": "Napa",
+      "State": "California",
+      "Population": 79068,
+      "x": 38.2975381,
+      "y": -122.286865
+    },
+    {
+      "City": "Lafayette",
+      "State": "Louisiana",
+      "Population": 124276,
+      "x": 30.2240897,
+      "y": -92.0198427
+    },
+    {
+      "City": "Biloxi",
+      "State": "Mississippi",
+      "Population": 44820,
+      "x": 30.3960318,
+      "y": -88.8853078
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Geography Quiz</string>
+    <string name="initialSubHeader">Test your geography knowledge!</string>
+    <string name="textInitialTapAnywhere">Tap anywhere to start</string>
+    <string name="textMainButton">Make Guess</string>
+    <string name="textButtonContinue">Continue</string>
+    <string name="textRoundScore">Round Score</string>
+    <string name="textWinMessage">Congratulations! You passed all twelve rounds!</string>
+    <string name="textLoseMessage">Unfortunately you did not get enough points to advance to the next round.</string>
+    <string name="textContinueTapAnywhere">Tap anywhere to play again</string>
+    <string name="textSummaryHeader">Summary</string>
+    <string name="textRoundSummaryHeader">Round Summary</string>
+    <string name="textScoreHeader">Score:</string>
+    <string name="textGuessSummaryHeader">Guess</string>
+    <string name="textDistance">Distance</string>
+    <string name="textRound">Round</string>
+    <string name="textActualLocation">Actual location</string>
+    <string name="textMiles">miles</string>
+    <string name="textProgress">progress</string>
+
+    <string name="textConfirmDialog">Are you sure you want to view settings? Current game progress will be lost.</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>

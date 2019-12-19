@@ -1,0 +1,200 @@
+{
+  "cities": [
+    {
+      "City": "Pawtucket",
+      "State": "Rhode Island",
+      "Population": 71172,
+      "x": 41.878711,
+      "y": -71.3825558
+    },
+    {
+      "City": "Lorain",
+      "State": "Ohio",
+      "Population": 63710,
+      "x": 41.452819,
+      "y": -82.1823746
+    },
+    {
+      "City": "Antioch",
+      "State": "California",
+      "Population": 107100,
+      "x": 38.0049214,
+      "y": -121.805789
+    },
+    {
+      "City": "Kettering",
+      "State": "Ohio",
+      "Population": 55870,
+      "x": 39.6895036,
+      "y": -84.1688274
+    },
+    {
+      "City": "Missoula",
+      "State": "Montana",
+      "Population": 69122,
+      "x": 46.8787176,
+      "y": -113.996586
+    },
+    {
+      "City": "Yuma",
+      "State": "Arizona",
+      "Population": 91923,
+      "x": 32.6926512,
+      "y": -114.6276916
+    },
+    {
+      "City": "Rio Rancho",
+      "State": "New Mexico",
+      "Population": 91956,
+      "x": 35.2327544,
+      "y": -106.6630437
+    },
+    {
+      "City": "Broken Arrow",
+      "State": "Oklahoma",
+      "Population": 103500,
+      "x": 36.060949,
+      "y": -95.7974526
+    },
+    {
+      "City": "Lynn",
+      "State": "Massachusetts",
+      "Population": 91589,
+      "x": 42.466763,
+      "y": -70.9494938
+    },
+    {
+      "City": "Orem",
+      "State": "Utah",
+      "Population": 91648,
+      "x": 40.2968979,
+      "y": -111.6946475
+    },
+    {
+      "City": "Odessa",
+      "State": "Texas",
+      "Population": 110720,
+      "x": 31.8456816,
+      "y": -102.3676431
+    },
+    {
+      "City": "Kalamazoo",
+      "State": "Michigan",
+      "Population": 75548,
+      "x": 42.2917069,
+      "y": -85.5872286
+    },
+    {
+      "City": "Hackensack",
+      "State": "New Jersey",
+      "Population": 44113,
+      "x": 40.8859325,
+      "y": -74.0434736
+    },
+    {
+      "City": "Abilene",
+      "State": "Texas",
+      "Population": 120099,
+      "x": 32.4487364,
+      "y": -99.7331439
+    },
+    {
+      "City": "Nashua",
+      "State": "New Hampshire",
+      "Population": 87137,
+      "x": 42.7653662,
+      "y": -71.467566
+    },
+    {
+      "City": "Lima",
+      "State": "Ohio",
+      "Population": 38355,
+      "x": 40.742551,
+      "y": -84.1052256
+    },
+    {
+      "City": "Fond du Lac",
+      "State": "Wisconsin",
+      "Population": 42970,
+      "x": 43.7730448,
+      "y": -88.4470508
+    },
+    {
+      "City": "Macon",
+      "State": "Georgia",
+      "Population": 89981,
+      "x": 32.8406946,
+      "y": -83.6324022
+    },
+    {
+      "City": "Goodyear",
+      "State": "Arizona",
+      "Population": 72864,
+      "x": 33.4353394,
+      "y": -112.3576567
+    },
+    {
+      "City": "Valdosta",
+      "State": "Georgia",
+      "Population": 56481,
+      "x": 30.8327022,
+      "y": -83.2784851
+    },
+    {
+      "City": "Grand Forks",
+      "State": "North Dakota",
+      "Population": 54932,
+      "x": 47.9252568,
+      "y": -97.0328547
+    },
+    {
+      "City": "Carson City",
+      "State": "Nevada",
+      "Population": 54080,
+      "x": 39.1637984,
+      "y": -119.7674034
+    },
+    {
+      "City": "Stillwater",
+      "State": "Oklahoma",
+      "Population": 47186,
+      "x": 36.1156071,
+      "y": -97.0583681
+    },
+    {
+      "City": "Beavercreek",
+      "State": "Ohio",
+      "Population": 45712,
+      "x": 39.7092262,
+      "y": -84.0632685
+    },
+    {
+      "City": "DeKalb",
+      "State": "Illinois",
+      "Population": 43849,
+      "x": 41.9294736,
+      "y": -88.7503647
+    },
+    {
+      "City": "Kennewick",
+      "State": "Washington",
+      "Population": 76762,
+      "x": 46.2112458,
+      "y": -119.1372338
+    },
+    {
+      "City": "Port Arthur",
+      "State": "Texas",
+      "Population": 54135,
+      "x": 29.8849504,
+      "y": -93.939947
+    },
+    {
+      "City": "Beaverton",
+      "State": "Oregon",
+      "Population": 93542,
+      "x": 45.487062,
+      "y": -122.8037102
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="Easy"
+        android:entries="@array/difficulty_list"
+        android:entryValues="@array/difficulty_list_values"
+        android:key="pref_difficulty"
+        android:persistent="true"
+        android:title="Elige una dificultad"
+        android:summary="Seleccione el grado de dificultad de puntuación para sus conjeturas."/>
+</PreferenceScreen>

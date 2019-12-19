@@ -1,0 +1,145 @@
+{
+  "cities": [
+    {
+      "City": "Sacramento",
+      "State": "California",
+      "Population": 479686,
+      "x": 38.5815719,
+      "y": -121.4943996
+    },
+    {
+      "City": "Long Beach",
+      "State": "California",
+      "Population": 469428,
+      "x": 33.7700504,
+      "y": -118.1937395
+    },
+    {
+      "City": "Virginia Beach",
+      "State": "Virginia",
+      "Population": 448479,
+      "x": 36.8529263,
+      "y": -75.977985
+    },
+    {
+      "City": "Colorado Springs",
+      "State": "Colorado",
+      "Population": 439886,
+      "x": 38.8338816,
+      "y": -104.8213634
+    },
+    {
+      "City": "Wichita",
+      "State": "Kansas",
+      "Population": 386552,
+      "x": 37.688889,
+      "y": -97.336111
+    },
+    {
+      "City": "Arlington",
+      "State": "Texas",
+      "Population": 379577,
+      "x": 32.735687,
+      "y": -97.1080656
+    },
+    {
+      "City": "Toledo",
+      "State": "Ohio",
+      "Population": 282313,
+      "x": 41.6639383,
+      "y": -83.555212
+    },
+    {
+      "City": "Newark",
+      "State": "New Jersey",
+      "Population": 278427,
+      "x": 40.735657,
+      "y": -74.1723667
+    },
+    {
+      "City": "Topeka",
+      "State": "Kansas",
+      "Population": 127679,
+      "x": 39.0558235,
+      "y": -95.6890185
+    },
+    {
+      "City": "Fort Wayne",
+      "State": "Indiana",
+      "Population": 256496,
+      "x": 41.079273,
+      "y": -85.1393513
+    },
+    {
+      "City": "Jersey City",
+      "State": "New Jersey",
+      "Population": 257342,
+      "x": 40.7281575,
+      "y": -74.0776417
+    },
+    {
+      "City": "Charleston",
+      "State": "South Carolina",
+      "Population": 127999,
+      "x": 32.7764749,
+      "y": -79.9310512
+
+    },
+    {
+      "City": "Lincoln",
+      "State": "Nebraska",
+      "Population": 268738,
+      "x": 40.8257625,
+      "y": -96.6851982
+    },
+    {
+      "City": "Madison",
+      "State": "Wisconsin",
+      "Population": 243344,
+      "x": 43.0730517,
+      "y": -89.4012302
+    },
+    {
+      "City": "Durham",
+      "State": "North Carolina",
+      "Population": 245475,
+      "x": 35.9940329,
+      "y": -78.898619
+    },
+    {
+      "City": "Reno",
+      "State": "Nevada",
+      "Population": 233294,
+      "x": 39.5296329,
+      "y": -119.8138027
+    },
+    {
+      "City": "Norfolk",
+      "State": "Virginia",
+      "Population": 246139,
+      "x": 36.8507689,
+      "y": -76.2858726
+    },
+    {
+      "City": "Boise City",
+      "State": "Idaho",
+      "Population": 214237,
+      "x": 43.6187102,
+      "y": -116.2146068
+    },
+    {
+      "City": "Des Moines",
+      "State": "Iowa",
+      "Population": 207510,
+      "x": 41.6005448,
+      "y": -93.6091064
+    },
+    {
+      "City": "Grand Rapids",
+      "State": "Michigan",
+      "Population": 192294,
+      "x": 42.9633599,
+      "y": -85.6680863
+    }
+  ]
+}

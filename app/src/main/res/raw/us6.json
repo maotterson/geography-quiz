@@ -1,0 +1,189 @@
+{
+  "cities": [
+    {
+      "City": "Allentown",
+      "State": "Pennsylvania",
+      "Population": 118577,
+      "x": 40.6084305,
+      "y": -75.4901833
+    },
+    {
+      "City": "Stamford",
+      "State": "Connecticut",
+      "Population": 126456,
+      "x": 41.0534302,
+      "y": -73.5387341
+    },
+    {
+      "City": "Bakersfield",
+      "State": "California",
+      "Population": 363630,
+      "x": 35.3732921,
+      "y": -119.0187125
+    },
+    {
+      "City": "Albany",
+      "State": "New York",
+      "Population": 98424,
+      "x": 42.6525793,
+      "y": -73.7562317
+    },
+    {
+      "City": "Flint",
+      "State": "Michigan",
+      "Population": 99763,
+      "x": 43.0125274,
+      "y": -83.6874562
+    },
+    {
+      "City": "Lowell",
+      "State": "Massachusetts",
+      "Population": 108861,
+      "x": 42.6334247,
+      "y": -71.3161718
+    },
+    {
+      "City": "Provo",
+      "State": "Utah",
+      "Population": 116288,
+      "x": 40.2338438,
+      "y": -111.6585337
+    },
+    {
+      "City": "Evansville",
+      "State": "Indiana",
+      "Population": 120310,
+      "x": 37.9715592,
+      "y": -87.5710898
+    },
+    {
+      "City": "Amarillo",
+      "State": "Texas",
+      "Population": 196429,
+      "x": 35.2219971,
+      "y": -101.8312969
+    },
+    {
+      "City": "Jackson",
+      "State": "Mississippi",
+      "Population": 172638,
+      "x": 32.2987573,
+      "y": -90.1848103
+    },
+    {
+      "City": "Boulder",
+      "State": "Colorado",
+      "Population": 103166,
+      "x": 40.0149856,
+      "y": -105.2705456
+    },
+    {
+      "City": "Duluth",
+      "State": "Minnesota",
+      "Population": 86128,
+      "x": 46.7866719,
+      "y": -92.1004852
+    },
+    {
+      "City": "Iowa City",
+      "State": "Iowa",
+      "Population": 71591,
+      "x": 41.6611277,
+      "y": -91.5301683
+    },
+    {
+      "City": "Santa Fe",
+      "State": "New Mexico",
+      "Population": 69976,
+      "x": 35.6869752,
+      "y": -105.937799
+    },
+    {
+      "City": "Flagstaff",
+      "State": "Arizona",
+      "Population": 68667,
+      "x": 35.1982836,
+      "y": -111.651302
+    },
+    {
+      "City": "Bismarck",
+      "State": "North Dakota",
+      "Population": 67034,
+      "x": 46.8083268,
+      "y": -100.7837392
+    },
+    
+    {
+      "City": "Pensacola",
+      "State": "Florida",
+      "Population": 52703,
+      "x": 30.421309,
+      "y": -87.2169149
+    },
+    {
+      "City": "Dover",
+      "State": "Delaware",
+      "Population": 37366,
+      "x": 39.158168,
+      "y": -75.5243682
+    },
+    {
+      "City": "Panama City",
+      "State": "Florida",
+      "Population": 36877,
+      "x": 30.1588129,
+      "y": -85.6602058
+    },
+    
+    {
+      "City": "Worcester",
+      "State": "Massachusetts",
+      "Population": 182544,
+      "x": 42.2625932,
+      "y": -71.8022934
+    },
+    {
+      "City": "Knoxville",
+      "State": "Tennessee",
+      "Population": 183270,
+      "x": 35.9606384,
+      "y": -83.9207392
+    },
+    {
+      "City": "Olympia",
+      "State": "Washington",
+      "Population": 48338,
+      "x": 47.0378741,
+      "y": -122.9006951
+    },
+    {
+      "City": "Annapolis",
+      "State": "Maryland",
+      "Population": 38722,
+      "x": 38.9784453,
+      "y": -76.4921829
+    },
+    {
+      "City": "Berkeley",
+      "State": "California",
+      "Population": 116768,
+      "x": 37.8715926,
+      "y": -122.272747
+    },
+    {
+      "City": "Idaho Falls",
+      "State": "Idaho",
+      "Population": 58292,
+      "x": 43.4916514,
+      "y": -112.0339645
+    },
+    {
+      "City": "Wilmington",
+      "State": "North Carolina",
+      "Population": 112067,
+      "x": 34.2257255,
+      "y": -77.9447102
+    }
+    
+  ]
+}

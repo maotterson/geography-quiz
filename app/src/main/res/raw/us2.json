@@ -1,0 +1,151 @@
+{
+  "cities": [
+    {
+      "City": "Kansas City",
+      "State": "Missouri",
+      "Population": 467007,
+      "x": 39.0997265,
+      "y": -94.5785667
+    },
+    {
+      "City": "Atlanta",
+      "State": "Georgia",
+      "Population": 447841,
+      "x": 33.7489954,
+      "y": -84.3879824
+    },
+    {
+      "City": "Oakland",
+      "State": "California",
+      "Population": 406253,
+      "x": 37.8043637,
+      "y": -122.2711137
+    },
+    {
+      "City": "Minneapolis",
+      "State": "Minnesota",
+      "Population": 400070,
+      "x": 44.977753,
+      "y": -93.2650108
+    },
+    {
+      "City": "New Orleans",
+      "State": "Louisiana",
+      "Population": 378715,
+      "x": 29.9510658,
+      "y": -90.0715323
+    },
+    {
+      "City": "Tampa",
+      "State": "Florida",
+      "Population": 352957,
+      "x": 27.950575,
+      "y": -82.4571776
+    },
+    {
+      "City": "St. Louis",
+      "State": "Missouri",
+      "Population": 318416,
+      "x": 38.6270025,
+      "y": -90.1994042
+    },
+    {
+      "City": "Pittsburgh",
+      "State": "Pennsylvania",
+      "Population": 305841,
+      "x": 40.4406248,
+      "y": -79.9958864
+    },
+    {
+      "City": "Cincinnati",
+      "State": "Ohio",
+      "Population": 297517,
+      "x": 39.1031182,
+      "y": -84.5120196
+    },
+    {
+      "City": "Orlando",
+      "State": "Florida",
+      "Population": 255483,
+      "x": 28.5383355,
+      "y": -81.3792365
+    },
+    {
+      "City": "Baton Rouge",
+      "State": "Louisiana",
+      "Population": 229426,
+      "x": 30.4582829,
+      "y": -91.1403196
+    },
+    {
+      "City": "Birmingham",
+      "State": "Alabama",
+      "Population": 212113,
+      "x": 33.5206608,
+      "y": -86.80249
+    },
+    {
+      "City": "Salt Lake City",
+      "State": "Utah",
+      "Population": 191180,
+      "x": 40.7607793,
+      "y": -111.8910474
+    },
+    {
+      "City": "Anaheim",
+      "State": "California",
+      "Population": 345012,
+      "x": 33.8352932,
+      "y": -117.9145036
+    },
+    {
+      "City": "St. Paul",
+      "State": "Minnesota",
+      "Population": 294873,
+      "x": 44.9537029,
+      "y": -93.0899578
+    },
+    {
+      "City": "Buffalo",
+      "State": "New York",
+      "Population": 258959,
+      "x": 42.8864468,
+      "y": -78.8783689
+    },
+    {
+      "City": "Tulsa",
+      "State": "Oklahoma",
+      "Population": 398121,
+      "x": 36.1539816,
+      "y": -95.992775
+    },
+    {
+      "City": "Omaha",
+      "State": "Nebraska",
+      "Population": 434353,
+      "x": 41.2523634,
+      "y": -95.9979883
+    },
+    {
+      "City": "Raleigh",
+      "State": "North Carolina",
+      "Population": 431746,
+      "x": 35.7795897,
+      "y": -78.6381787
+    },
+    {
+      "City": "Fort Worth",
+      "State": "Texas",
+      "Population": 792727,
+      "x": 32.7554883,
+      "y": -97.3307658
+    },
+    {
+      "City": "Tucson",
+      "State": "Arizona",
+      "Population": 526116,
+      "x": 32.2217429,
+      "y": -110.926479
+    }
+  ]
+}

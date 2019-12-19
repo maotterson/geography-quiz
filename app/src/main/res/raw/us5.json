@@ -1,0 +1,138 @@
+{
+  "cities": [
+    {
+      "City": "Corpus Christi",
+      "State": "Texas",
+      "Population": 316381,
+      "x": 27.8005828,
+      "y": -97.396381
+    },
+    {
+      "City": "Stockton",
+      "State": "California",
+      "Population": 298118,
+      "x": 37.9577016,
+      "y": -121.2907796
+    },
+    {
+      "City": "Fresno",
+      "State": "California",
+      "Population": 509924,
+      "x": 36.7468422,
+      "y": -119.7725868
+    },
+    {
+      "City": "Plano",
+      "State": "Texas",
+      "Population": 274409,
+      "x": 33.0198431,
+      "y": -96.6988856
+    },
+    {
+      "City": "Ann Arbor",
+      "State": "Michigan",
+      "Population": 117025,
+      "x": 42.2808256,
+      "y": -83.7430378
+    },
+    {
+      "City": "Lansing",
+      "State": "Michigan",
+      "Population": 113972,
+      "x": 42.732535,
+      "y": -84.5555347
+    },
+    {
+      "City": "Cedar Rapids",
+      "State": "Iowa",
+      "Population": 128429,
+      "x": 41.9778795,
+      "y": -91.6656232
+    },
+    {
+      "City": "Tempe",
+      "State": "Arizona",
+      "Population": 168228,
+      "x": 33.4255104,
+      "y": -111.9400054
+    },
+    {
+      "City": "Chattanooga",
+      "State": "Tennessee",
+      "Population": 173366,
+      "x": 35.0456297,
+      "y": -85.3096801
+    },
+    {
+      "City": "Gary",
+      "State": "Indiana",
+      "Population": 78450,
+      "x": 41.5933696,
+      "y": -87.3464271
+    },
+    {
+      "City": "Niagara Falls",
+      "State": "New York",
+      "Population": 49468,
+      "x": 43.0962143,
+      "y": -79.0377388
+    },
+    {
+      "City": "Huntington Beach",
+      "State": "California",
+      "Population": 197575,
+      "x": 33.660297,
+      "y": -117.9992265
+    },
+    {
+      "City": "Green Bay",
+      "State": "Wisconsin",
+      "Population": 104779,
+      "x": 44.519159,
+      "y": -88.019826
+    },
+    {
+      "City": "Erie",
+      "State": "Pennsylvania",
+      "Population": 100671,
+      "x": 42.1292241,
+      "y": -80.085059
+    },
+    {
+      "City": "South Bend",
+      "State": "Indiana",
+      "Population": 100886,
+      "x": 41.6763545,
+      "y": -86.2519898
+    },
+    {
+      "City": "Lexington",
+      "State": "Kentucky",
+      "Population": 308428,
+      "x": 38.0405837,
+      "y": -84.5037164
+    },
+    {
+      "City": "Fort Myers",
+      "State": "Florida",
+      "Population": 68190,
+      "x": 26.640628,
+      "y": -81.8723084
+    },
+    {
+      "City": "Greensboro",
+      "State": "North Carolina",
+      "Population": 279639,
+      "x": 36.0726354,
+      "y": -79.7919754
+    },
+    {
+      "City": "Yonkers",
+      "State": "New York",
+      "Population": 199766,
+      "x": 40.9312099,
+      "y": -73.8987469
+    }
+
+  ]
+}
